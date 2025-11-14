@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.51cfa23a.css",
-    "main.js": "/profile/static/js/main.004c1e7d.js",
-    "index.html": "/profile/index.html",
-    "main.51cfa23a.css.map": "/profile/static/css/main.51cfa23a.css.map",
-    "main.004c1e7d.js.map": "/profile/static/js/main.004c1e7d.js.map"
+    "main.css": "/SiaBotPages/static/css/main.51cfa23a.css",
+    "main.js": "/SiaBotPages/static/js/main.004c1e7d.js",
+    "index.html": "/SiaBotPages/index.html",
+    "main.51cfa23a.css.map": "/SiaBotPages/static/css/main.51cfa23a.css.map",
+    "main.004c1e7d.js.map": "/SiaBotPages/static/js/main.004c1e7d.js.map"
   },
   "entrypoints": [
     "static/css/main.51cfa23a.css",
