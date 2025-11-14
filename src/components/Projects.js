@@ -21,7 +21,7 @@ const Projects = () => {
             <div className="section-item clickable" onClick={() => openModal('devArchive')}>
                 <div className="item-header">
                     <h3>DevArchive (협업 및 지식 아카이빙 플랫폼)</h3>
-                    <span className="period">2025. 01. ~ 진행 중</span>
+                    <span className="period">2025. 11. ~ 진행 중</span>
                 </div>
                 <div className="role-tech">
                     <p><strong>역할:</strong> Full Stack, AI Service Developer, System Architect</p>
