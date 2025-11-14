@@ -3,6 +3,7 @@ import React from 'react';
 const Activities = () => {
     return (
         <>
+            {/*
             <h2>대외활동</h2>
             {/*
             <div className="timeline-item">
@@ -12,7 +13,7 @@ const Activities = () => {
                 </div>
                 <p className="timeline-subtitle">응용소프트웨어공학과 학생회 회장</p>
             </div>
-            */}
+            * /}
             {/*
             <div className="timeline-item">
                 <div className="timeline-header">
@@ -21,7 +22,7 @@ const Activities = () => {
                 </div>
                 <p className="timeline-subtitle">한양사이버대학교 학과 스터디 | 창립 멤버</p>
             </div>
-            */}
+            * /}
             <div className="timeline-item">
                 <div className="timeline-header">
                     <span className="timeline-title">NGJ (게임개발)</span>
@@ -48,6 +49,7 @@ const Activities = () => {
                 </div>
                 <p className="timeline-subtitle">솔리드웍스, 3D프린터를 이용한 3D제작물 동아리</p>
             </div>
+            */}
         </>
     );
 };
